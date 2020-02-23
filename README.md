@@ -26,7 +26,7 @@ The Code Repository for the Drake Robotic's Group Robot, Mother.  Mother is an a
 * Professor Michael Rieck - Faculty Supervisor
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md(LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgements
 * Code used by Evan Weinberg
